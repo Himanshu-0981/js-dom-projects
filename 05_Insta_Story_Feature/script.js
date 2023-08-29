@@ -54,6 +54,5 @@ stories.addEventListener("click", function (event) {
   setTimeout(() => {
     full_screen.style.display = "none";
     instaIcon[0].style.display = "flex";
-    
   }, 1000);
 });
