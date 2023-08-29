@@ -22,6 +22,7 @@
   height: 400px;
   background-color: white;
   border-radius: 5px;
+  position: relative;
 }
 
 .insta-icon {
@@ -130,4 +131,13 @@
   margin-top: 7px;
   margin-right: 10px;
   margin-left: 10px;
+}
+
+#full-screen {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  display: none;
+  background-size: cover;
+  background-position: center;
 }
