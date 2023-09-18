@@ -11,3 +11,5 @@
 ##### 4. Add And Remove Friend Button
 
 ##### 5. Instagram Story Feature
+
+##### 6. Accordion
