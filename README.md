@@ -13,3 +13,7 @@
 ##### 5. Instagram Story Feature
 
 ##### 6. Accordion
+
+##### 7. Paragraph Generator
+
+##### 8. Password Generator
