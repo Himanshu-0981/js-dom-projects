@@ -13,3 +13,9 @@
 ##### 5. Instagram Story Feature
 
 ##### 6. Accordion
+
+##### 6. Paragraph Generator
+
+##### 6. Password Generator
+
+##### 6. Tic Tac Toe
