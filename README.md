@@ -14,14 +14,8 @@
 
 ##### 6. Accordion
 
-<<<<<<< HEAD
-##### 6. Paragraph Generator
-
-##### 6. Password Generator
-
-##### 6. Tic Tac Toe
-=======
 ##### 7. Paragraph Generator
 
 ##### 8. Password Generator
->>>>>>> b7ae2c046e393d1c124d5592e3c6bd7591bc1f9f
+
+##### 9. Tic Tac Toe
